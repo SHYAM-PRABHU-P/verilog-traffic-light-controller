@@ -17,10 +17,10 @@ The controller operates based on a **Finite State Machine (FSM)** to manage traf
 - Outputs depend on the current state
 
 ## 🗂️ Folder Structure
-  src/ - Verilog RTL code
-  tb/ - Testbench
-  sim/ - Simulation results
-  docs/ - State diagram & timing diagram
+- src/ - Verilog RTL code
+- tb/ - Testbench
+- sim/ - Simulation results
+- docs/ - State diagram & timing diagram
 
 ## 🔧 Tools Used
 - Verilog HDL
